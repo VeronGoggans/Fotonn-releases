@@ -1,0 +1,19 @@
+Copyright (c) 2026 Fotonn. All rights reserved.
+
+1. License Grant
+This software is provided in compiled (binary) form for use by authorized users only. This repository is used solely for the distribution of releases and issue tracking.
+
+2. Restrictions
+Unless explicitly permitted by Fotonn, you may not:
+
+Redistribute, sell, or lease this software to any third party.
+
+Reverse engineer, decompile, or disassemble the binary files provided in the "Releases" section.
+
+Modify or create derivative works of the software.
+
+3. Ownership
+The Software and all intellectual property rights therein are the exclusive property of Fotonn. Your use of the software is subject to the purchase of a valid license at: https://fotonn.com/download-app.
+
+4. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
